@@ -2,7 +2,7 @@
 
 ### 💻 Especialista em Sistemas e Infraestrutura de TI | Desenvolvedor Híbrido
 
-Sou um profissional de Tecnologia da Informação com mais de 3 anos de experiência, especializado em **suporte técnico, infraestrutura e administração de sistemas**[cite: 20].
+Sou um profissional de Tecnologia da Informação com mais de 3 anos de experiência, especializado em **suporte técnico, infraestrutura e administração de sistemas**.
 
 A minha principal força é a capacidade de **garantir a estabilidade e a continuidade dos negócios** através de soluções robustas de Infraestrutura, aliada à habilidade de **desenvolver e automatizar**.
 
