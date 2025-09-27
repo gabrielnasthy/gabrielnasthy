@@ -29,6 +29,6 @@ A minha principal força é a capacidade de **garantir a estabilidade e a contin
 
 ### 📧 Conecta-te Comigo
 
-* **LinkedIn:** [linkedin.com/in/gabrielaguiarrocha](https://www.linkedin.com/in/gabrielaguiarrocha) [cite: 5]
-* **E-mail:** aguiarrocha37@gmail.com [cite: 3]
-* **Portfólio/Blog:** (Se for um blog técnico sobre Infra/Dev) [cite: 5]
+* **LinkedIn:** [linkedin.com/in/gabrielaguiarrocha](https://www.linkedin.com/in/gabrielaguiarrocha)
+* **E-mail:** aguiarrocha37@outlook.com 
+* **Portfólio/Blog:** (Se for um blog técnico sobre Infra/Dev)
