@@ -4,22 +4,21 @@
 
 Sou um profissional de Tecnologia da Informação com mais de 3 anos de experiência, especializado em **suporte técnico, infraestrutura e administração de sistemas**[cite: 20].
 
-A minha principal força é a capacidade de **garantir a estabilidade e a continuidade dos negócios** através de soluções robustas de Infraestrutura, aliada à habilidade de **desenvolver e automatizar**[cite: 41].
+A minha principal força é a capacidade de **garantir a estabilidade e a continuidade dos negócios** através de soluções robustas de Infraestrutura, aliada à habilidade de **desenvolver e automatizar**.
 
-**Infraestrutura:** Sólido conhecimento em administração de servidores (Linux/Windows), **virtualização com Proxmox**, configuração de redes (pfSense, redes Mesh) e sistemas de monitoramento (Zabbix/Grafana)[cite: 45, 46, 49].
+**Infraestrutura:** Sólido conhecimento em administração de servidores (Linux/Windows), **virtualização com Proxmox**, configuração de redes (pfSense, redes Mesh) e sistemas de monitoramento (Zabbix/Grafana).
 * **Desenvolvimento:** Experiência com **Python**, **Rust**, C++, JavaScript, HTML e CSS, focado em usar estas linguagens para criar scripts de automação, ferramentas de SysAdmin e soluções de backend.
-**Comunicação:** Possuo a habilidade de **traduzir termos técnicos complexos em soluções claras** e objetivas para o usuário final[cite: 28].
-
+**Comunicação:** Possuo a habilidade de **traduzir termos técnicos complexos em soluções claras** e objetivas para o usuário final.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas (As minhas *Skills*)
 
 | Categoria | Tecnologias Chave |
 | :--- | :--- |
-| **Sistemas Operacionais** | [cite_start]Linux (Red Hat, Rocky Linux), Windows Server [cite: 26, 45] |
-| **Virtualização/Containers** | [cite_start]Proxmox, Containers (Docker) [cite: 17, 45] |
+| **Sistemas Operacionais** | [cite_start]Linux (Red Hat, Rocky Linux), Windows Server  |
+| **Virtualização/Containers** | [cite_start]Proxmox, Containers (Docker). |
 | **Linguagens de Programação** | Python, Rust, C++, JavaScript |
-| **Infraestrutura e Redes** | pfSense, Zabbix, Grafana, Active Directory, Redes Mesh [cite: 46, 49] |
+| **Infraestrutura e Redes** | pfSense, Zabbix, Grafana, Active Directory, Redes Mesh |
 | **Front-end** | HTML, CSS |
 
 ---
